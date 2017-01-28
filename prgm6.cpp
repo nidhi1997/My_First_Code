@@ -2,6 +2,7 @@
 int main()
 { 
    int n, a=1;
+   cout<<"MY FIRST GITHUB UPLOAD!! xD";
    cout<<"Enter the number of rows\n";
    cin>>n;
    for(int i=1; i<=n; i++)
