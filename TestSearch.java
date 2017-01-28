@@ -32,7 +32,7 @@ class LinearSearch
 class TestSearch
 { public static void main(String args[])
  { int array[];
-   System.out.println("Enter the number of elements                        in the array");
+   System.out.println("Enter the number of elements in the array");
    Scanner s=new Scanner(System.in);
    int n=s.nextInt();
    array= new int [n];
