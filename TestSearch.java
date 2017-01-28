@@ -49,19 +49,3 @@ class TestSearch
    l.Display();
   }
 }
-
-//output
-C:\Users\admin>javac TestSearch.java
-
-C:\Users\admin>java TestSearch
-Enter the number of elements in the array
-5
-Enter the elements of the array
-6
-4
-56
-7
-4
-Enter the element to be found
-56
-Element found at 3
